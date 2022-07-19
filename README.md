@@ -2,7 +2,7 @@
 
 <br />
 <a target="_blank" href="https://juejin.cn/user/1302259794456120">
-  <img align="left" title="掘金" alt="chokcoco" width="22px" src="https://github.com/chokcoco/chokcoco/blob/main/juejin.svg" />
+  <img align="center" title="掘金" alt="chokcoco" width="22px" src="https://github.com/chokcoco/chokcoco/blob/main/juejin.svg" />
 </a>
 
 <br />
