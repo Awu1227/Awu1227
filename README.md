@@ -17,7 +17,7 @@
 
 #  🙋 Hello 
 
-<p>✍️&nbsp;&nbsp;大家好，我是阿武! 我是一名前端开发工程师，我的偶像是尤大（Evan You）。</p>
+<p>✍️&nbsp;&nbsp;大家好，我是阿武！我是一名前端开发工程师。</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 
