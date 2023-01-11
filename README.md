@@ -4,11 +4,6 @@
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 
-<!-- 比较好的开源项目卡片 -->
-<div align="center">
-<a href="https://github.com/Awu1227/morden-css-natours">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Awu1227&repo=morden-css-natours&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-
 
 💪 正在学习: 
 
